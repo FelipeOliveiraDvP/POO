@@ -1,0 +1,21 @@
+public class Aula1 {
+  public static void main(String[] args){
+    int a = 20;
+    float pi = 3.14f;
+    String t = "abc";
+
+    System.out.println("Teste: "+t);
+    System.out.println("Teste: "+t);
+  }
+}
+
+
+Stack		Heap
+
+main
+ a = 20
+ pi = 3.14
+ t = #fae001 -->String "abc" #fae001
+
+println
+ 
